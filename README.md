@@ -4,12 +4,16 @@
 
 Open software engineering jobs whose title or location says the role is remote.
 
-**4,601 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 26, 2026.
+**4,576 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 26, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs&utm_content=cta) to see how it matches roles like these.
 
 | Company | Role | Location | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Eneba | Frontend Engineer (React) | Remote +1 · Lithuania | 2026-10-26 | [Apply](https://hirly.me/jobs/frontend-engineer-react-at-eneba-de390e97-32ce-485f-91b0-918c09ee15e4?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
+| Twilio | Senior Director, Developer Relations | Remote · United States | 2026-10-26 | [Apply](https://hirly.me/jobs/senior-director-developer-relations-at-twilio-287d6e61-d91c-4865-8b38-bd67835ff54c?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
+| Restaurant Supply | Senior Full Stack PHP Developer, Product Catalogue and Quoting | Remote · Europe | 2026-10-26 | [Apply](https://hirly.me/jobs/senior-full-stack-php-developer-product-catalogue-and-quoting-at-restaurant-supp-f15a7984-c0b6-46cc-8f15-bdee86531864?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
+| Mindly | Middle Software Engineer | Remote | 2026-10-25 | [Apply](https://hirly.me/jobs/middle-software-engineer-at-mindly-63ed050b-eb27-4b6f-8c53-65bfd7410fd4?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 | GDIT | Salesforce Developer (Cloud Developer) | Any Location / Remote · United States | 2026-10-24 | [Apply](https://hirly.me/jobs/salesforce-developer-cloud-developer-at-gdit-7cd1d6f5-1c68-4c4c-896a-36b4a0be8843?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 | Reddit | Software Engineer, Ad Signals | Remote · United States | 2026-10-24 | [Apply](https://hirly.me/jobs/software-engineer-ad-signals-at-reddit-6da02b66-b633-4725-af1f-80cf5f6c3cba?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 | Supabase | Software Engineer - Storage | Remote · Global | 2026-10-24 | [Apply](https://hirly.me/jobs/software-engineer-storage-at-supabase-3494e175-98ee-4fbf-805e-991c977b4e74?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
@@ -256,14 +260,10 @@ Open software engineering jobs whose title or location says the role is remote.
 | Tealium | Software Engineer | Remote Poland · Poland | 2026-10-20 | [Apply](https://hirly.me/jobs/software-engineer-at-tealium-1ace3521-674f-42d3-aae0-b78fc7e52651?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 | Tealium | Software Engineer - Connectors &amp; Integrations | Remote Poland · Poland | 2026-10-20 | [Apply](https://hirly.me/jobs/software-engineer-connectors-integrations-at-tealium-75af669d-87ce-495c-9bb1-88b8ae57474b?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 | Tealium | Sr. Software Engineer - Applied AI | Remote Poland · Poland | 2026-10-20 | [Apply](https://hirly.me/jobs/sr-software-engineer-applied-ai-at-tealium-d9eef3df-d508-4cac-ad15-efd9dbcbd5e7?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
-| Taxwell | Principal AI Software Engineer | Remote Location · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/principal-ai-software-engineer-at-taxwell-31be6e36-d4c3-4ce1-9ea1-546d8555873f?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
-| Backblaze | Senior Software Engineer - Data Infrastructure | Remote · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/senior-software-engineer-data-infrastructure-at-backblaze-4f69dd34-3dff-4482-8622-ae8d5b084f1d?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
-| Honeydew | Senior Software Engineer - Platform | Remote · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/senior-software-engineer-platform-at-honeydew-65178eb2-cdae-40c6-a336-3738826dc669?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
-| Honeydew | Senior Software Engineer - Data | Remote · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/senior-software-engineer-data-at-honeydew-6c8d7d44-85b2-42d9-beef-a109083e42a2?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs) |
 
 \* The employer’s page gives no posting date; this is the day hirly first saw the job.
 
-Looking for the other 4,351? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs&utm_content=more).
+Looking for the other 4,326? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=remote-software-engineer-jobs&utm_content=more).
 
 ## How this list is built
 
